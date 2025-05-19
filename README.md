@@ -9,6 +9,7 @@ YOU MAY USE AUTO DELETING AFTER BAT FILE, FOR EXAMPLE:
 > Windows Registry Editor Version 5.00
 >
 > [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+> 
 > "UseDesktopCache"=dword:00000000
 
 Read-Only Bug Windows 11 pro for $RECYCLE.BIN or $Recycle.bin
